@@ -1,4 +1,4 @@
-package DomenObjects;
+package Student06062018.domen_obj;
 
 public class Student {
 

@@ -1,7 +1,7 @@
-package service;
+package Student2205.service;
 
-import DomenObjects.Info;
-import DomenObjects.Student;
+import Student2205.DomenObjects.Info;
+import Student2205.DomenObjects.Student;
 
 import java.io.*;
 import java.util.*;

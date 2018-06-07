@@ -1,4 +1,4 @@
-package DomenObjects;
+package Student2205.DomenObjects;
 
 public class Info {
     private String city;
